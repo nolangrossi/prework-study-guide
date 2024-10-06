@@ -20,7 +20,7 @@ After installation, use the guide to:
 - Practice writing and testing code snippets for web development
 
 # Credits
-Thanks to [contributors], boot camp resources, and any open-source libraries used.
+Thanks to Nolan Grossi(me), boot camp resources, and any open-source libraries used.
 
 # License
 Distributed under the MIT License.
